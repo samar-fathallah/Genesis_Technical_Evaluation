@@ -78,3 +78,14 @@ q
 ?
 s
 !
+
+HOW TO RUN:
+
+1- Download the "evaluation" folder
+2-Open Eclipse IDE
+3-browse to your desired workspace
+4-File -> Open Projects From File System -> browse to the evaluation folder downloaded
+5- Open TonyMagicBox.java 
+6- Run as java application
+
+IF YOU ARE USING A DIFFERENT IDE JUST DOWNLOAD THE JAVA FILE & RUN INSIDE YOUR PROJECT
